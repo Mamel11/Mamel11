@@ -57,15 +57,17 @@
 
 ---
 
-### 🚀 Featured Highlights & Projects
+### 🚀 Featured Repositories
 
-| Project | Description | Tech Stack |
+| Repository | Focus & Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Real-Time Edge AI & Reliability Modeler](https://github.com/Mamel11)** | Deep Learning forecasting suite (Multi-Head Attention, 1D-CNN, LSTM) for 5G/6G edge networks with GAD calibrated uncertainty & sub-10ms inference. *(Diploma Thesis)* | `Python` `TensorFlow` `6G/Edge AI` |
-| **[Vocal Mama — Multilingual Speech AI](https://github.com/Mamel11)** | **1st Place Winner** (Microsoft & UBITECH Hackathon). Cloud speech system orchestrating Azure Speech Services (STT/TTS) & Custom Neural Voice. | `Azure AI` `Python` `Neural Voice` `REST` |
-| **[3D Interactive SQL Platform with AI NPC](https://github.com/Mamel11)** | Gamified SQL learning world with context-aware AI tutor NPC powered by OpenAI & dynamic prompts. | `Unity 3D` `C#` `Node.js` `MySQL` `OpenAI` |
+| **[5G QoS Predictive Modeler & XAI](https://github.com/Mamel11/5g-qos-predictive-modeler)** | Machine Learning pipeline (XGBoost, Random Forest) benchmarking 5G QoS allocation with SHAP feature explainability & MySQL metric tracking. | `Python` `XGBoost` `SHAP` `MySQL` `CI/CD` |
+| **[SQL Quest: 3D AI Learning World](https://github.com/Mamel11/sql-quest-ai-learning-platform)** | Gamified 3D SQL educational platform featuring context-aware conversational AI NPC guidance powered by OpenAI API. | `Unity 3D` `C#` `Node.js` `OpenAI` `MySQL` |
+| **[Academic Thesis Management System](https://github.com/Mamel11/academic-thesis-management)** | Full-Stack academic workflow portal enforcing Role-Based Access Control (RBAC), JWT authentication, and Multer file pipelines. | `Node.js` `Express` `MySQL` `JWT` `Multer` |
 
----
+> 🏆 **Awards & Ongoing Research:**
+> - **1st Place Winner** at *Microsoft & UBITECH "AI for HER" Hackathon* (*Vocal Mama* — Azure Speech & Neural Voice).
+> - **Diploma Thesis (CEID):** *Uncertainty Quantification in Deep Learning for 6G Networks* (Multi-Head Transformers, GAD/MCD, sub-10ms edge latency — *Code releasing upon defense*).
 
 ### 📈 GitHub Stats
 <div align="center">
